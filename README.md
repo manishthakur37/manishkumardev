@@ -1,169 +1,88 @@
 <div align="center">
 
-# 👋 Hi, I'm Manish Kumar
+# Hi, I'm Manish Kumar 👋
 
-### **ERPNext & Frappe Developer • Python Backend Engineer • Full Stack Developer**
+### ERPNext & Frappe Developer • Python Backend Engineer • Full Stack Developer
 
-Building scalable ERP solutions, business automation, and modern web applications with **Python**, **Frappe Framework**, and **ERPNext**.
+Building scalable ERP solutions, business automation, and modern web applications.
 
-<p>
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ERPNext-Developer-green?style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineer** with over **4 years of experience** developing enterprise-grade ERP solutions using the **Frappe Framework** and **ERPNext**.
-
-My expertise includes designing scalable applications, automating business workflows, integrating third-party services, and developing custom ERP modules that improve operational efficiency.
-
-I enjoy solving real-world business challenges through clean architecture, maintainable code, and modern development practices.
+Software Engineer with **4+ years of experience** in developing enterprise-grade ERP solutions using **ERPNext**, **Frappe Framework**, and **Python**. I specialize in business process automation, scalable backend systems, REST API integration, and custom ERP application development.
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
-### Backend
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
-### Frontend
+**Frameworks**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-</p>
+![ERPNext](https://img.shields.io/badge/ERPNext-0175C2?style=flat)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### Database
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-**MariaDB • MySQL**
+---
 
-### DevOps & Tools
+## 🚀 Expertise
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,postman" />
-</p>
-
-### ERP Technologies
-
-- ERPNext
-- Frappe Framework
-- Bench
-- REST API
-- Workflow Automation
-- Query Reports
-- Script Reports
+- ERPNext Customization & Development
+- Frappe Application Development
+- Python Backend Development
+- Full Stack Web Development
+- REST API Integration
+- Business Workflow Automation
+- Custom Doctypes & Modules
+- Query & Script Reports
 - Print Formats
+- Deployment & Server Management
 
 ---
 
-# 📌 Core Expertise
-
-✔ ERPNext Development
-
-✔ Frappe Framework
-
-✔ Custom App Development
-
-✔ Business Process Automation
-
-✔ REST API Integration
-
-✔ Payment Gateway Integration
-
-✔ Workflow & Approval Systems
-
-✔ Database Design
-
-✔ Performance Optimization
-
-✔ Deployment & Server Management
-
----
-
-# 🏢 Domains Worked On
+## 🏢 Domain Experience
 
 - Procurement (P2P)
 - Inventory Management
 - Logistics & Courier
-- Warehouse Management
-- Vehicle Management
 - HR & Payroll
-- Finance
-- Agriculture & Seed Division
 - Manufacturing
+- Agriculture & Seed Division
+- Vehicle Management
 - Guest House Management
 
 ---
 
-# 🌱 Currently Learning
-
-- Next.js
-- Docker & Kubernetes
-- AWS Cloud
-- System Design
-- Microservices
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15)
-
-</div>
-
----
-
-# 🤝 Connect With Me
+## 📈 Stats
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 *"Transforming Business Ideas into Scalable ERP Solutions."*
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+**Building reliable ERP solutions with clean architecture and scalable code.**
 
 </div>
